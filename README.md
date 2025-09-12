@@ -117,3 +117,15 @@ VI. Debugging:
       1. Debugging a Simple Calculation: Create a Java program with a few methods that perform arithmetic operations (addition, subtraction, multiplication, division). Introduce a bug in one of the methods (e.g., incorrect calculation). Use Step-Into, Step-Over, and Step-Out to locate and fix the bug.
       2. Debugging a String Manipulation: Write a Java program that manipulates strings using various methods (e.g., substring, replace, toUpperCase). Introduce a bug that causes the string to be formatted incorrectly. Use the debugging commands to trace the execution and identify the source of the error. Use Smart Step-Into when a single line has multiple string operations.
       3. Debugging a Loop: Create a Java program with a for or while loop that iterates through an array or list. Introduce a bug that causes the loop to terminate prematurely or access an invalid index. Use the debugging commands to step through the loop iterations and identify the cause of the bug.
+
+
+
+
+
+#JavaScript
+1. TO-DO list App using HTML,CSS<Javascript
+  Features:
+   Add new tasks
+   Mark tests as completed
+   Delete tasks
+   Persistent list(using localStorage)
